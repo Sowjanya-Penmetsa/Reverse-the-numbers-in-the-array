@@ -1,0 +1,13 @@
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\obj\Debug\netcoreapp3.1\Reverse of numbers.csprojAssemblyReference.cache
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\obj\Debug\netcoreapp3.1\Reverse of numbers.csproj.CoreCompileInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\obj\Debug\netcoreapp3.1\Reverse of numbers.AssemblyInfoInputs.cache
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\obj\Debug\netcoreapp3.1\Reverse of numbers.AssemblyInfo.cs
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\bin\Debug\netcoreapp3.1\Reverse of numbers.exe
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\bin\Debug\netcoreapp3.1\Reverse of numbers.deps.json
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\bin\Debug\netcoreapp3.1\Reverse of numbers.runtimeconfig.json
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\bin\Debug\netcoreapp3.1\Reverse of numbers.runtimeconfig.dev.json
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\bin\Debug\netcoreapp3.1\Reverse of numbers.dll
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\bin\Debug\netcoreapp3.1\Reverse of numbers.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\obj\Debug\netcoreapp3.1\Reverse of numbers.dll
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\obj\Debug\netcoreapp3.1\Reverse of numbers.pdb
+C:\Users\Anvesh Penmetsa\source\repos\Reverse of numbers\Reverse of numbers\obj\Debug\netcoreapp3.1\Reverse of numbers.genruntimeconfig.cache
